@@ -29,5 +29,30 @@ public class User {
 	private String mobileNumber;
 	
 	private String aadhar;	
+	
+	private String gender;
+	
+	private String address;
+	
+	private String city;
+	
+	private String pin;
+	
+	private String bankname;
+	
+	private String branchname;
+	
+	private String accountnumber;
+	
+	private String nameasperaccount;
+	
+	private String ifsc;
+	
+	private String pan;
+	
+	private String password;
+	
+	private String role;
+	
 
 }
