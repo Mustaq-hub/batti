@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'btcapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51ECAFE522A547CCB106DABDB2BF842A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BCDCB516779409F8E9C90FF88B1763E }}
           package: '*.jar'
